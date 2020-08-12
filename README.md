@@ -8,8 +8,8 @@
 -->
 ## Resume:
 - 🔭 I’m currently working with Sap Analytics Cloud
-- 🌱 I’m currently learning Machine learning and Databricks
-- 💬 Ask me about Excel, VBA, Python, Data Analysis and finance
+- 🌱 I’m currently learning Data Science and Econometrics
+- 💬 Ask me about Excel, VBA, Python, Data Analysis, Economics, mountains and beer!
 - 📫 How to reach me: afonso.lenzi@gmail.com
 
 ![Afonso github stats](https://github-readme-stats.vercel.app/api?username=afonsolenzi)
