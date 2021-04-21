@@ -8,8 +8,8 @@
 -->
 ## Resume:
 - 🔭 I’m currently working as a Data Engineer
-- 🌱 Currently studying Data Science and Econometrics
-- 💬 Ask me about Excel, VBA, Python, Data Analysis, Economics, mountains and beer!
+- 🌱 Currently studying Data Engineering and Cloud Computing
+- 💬 Ask me about SQL, Python, Data Engineering, Cloud Computing, Economics, mountains and beer!
 - 📫 How to reach me: afonso.lenzi@gmail.com
 
 ![Afonso github stats](https://github-readme-stats.vercel.app/api?username=afonsolenzi)
