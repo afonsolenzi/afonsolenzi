@@ -8,8 +8,9 @@
 **afonsolenzi/afonsolenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Resume:
-- 🔭 I’m currently working as a Data Engineer
+- 🔭 I’m a Data Engineer
 - 🌱 Currently studying Data Engineering and Cloud Computing
+- 🔭 Tools/languages i have experience: Mysql, Sql Server, SSIS, Data Factory, Databricks / Spark, CosmosDb, Python.
 - 💬 Ask me about SQL, Python, Data Engineering, Cloud Computing, Economics, mountains and beer!
 - 📫 How to reach me: afonso.lenzi@gmail.com
 
