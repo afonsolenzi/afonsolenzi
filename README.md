@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/afonsolenzi/)](https://www.linkedin.com/in/afonsolenzi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:afonso.lenzi@gmail.com)](mailto:afonso.lenzi@gmail.com)
 
-### Hi there I am Afonso Orgino Lenzi, a Data Engineer with business background who loves data, is working with Data Engineering to connect business and tech! 
+### Hi there I am Afonso Orgino Lenzi, a Data Engineer with business background who loves data and is working as Data Engineer to connect business and tech! 
 ### Brazilian currently living and working in Poland <img height="25" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/> <img height="25" src="https://cdn.countryflags.com/thumbs/poland/flag-400.png"/>
 
 <!--
