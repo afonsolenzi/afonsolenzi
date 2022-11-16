@@ -10,7 +10,7 @@
 ## Resume:
 - 🔭 I’m a Data Engineer
 - 🌱 Currently studying Data Engineering and Cloud Computing
-- 🔭 Tools/languages i have experience: Mysql, Sql Server, SSIS, Data Factory, Databricks / Spark, CosmosDb, Python.
+- 🔭 Tools/languages i have experience: Data Factory, Databricks / Spark, CosmosDb, Python.
 - 💬 Ask me about SQL, Python, Data Engineering, Cloud Computing, Economics, mountains and beer!
 - 📫 How to reach me: afonso.lenzi@gmail.com
 
