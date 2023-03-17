@@ -20,7 +20,9 @@
     • Azure CosmosDB
     • Rest API
     • Synapse
+    • AKS
     • Azure Devops
+    • Also studying AWS: S3, Glue, Athena,EMR and EKS.
 - 💬 Ask me about SQL, Python, Data Engineering, Cloud Computing, Economics, mountains and beer!
 - 📫 How to reach me: afonso.lenzi@gmail.com
 
