@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afonso Orgino Lenzi</h1>
 <h3 align="center">A Data Engineer with economics background who loves to connect finance and tech!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afonsolenzi&label=Profile%20views&color=0e75b6&style=flat" alt="afonsolenzi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afonsolenzi" alt="afonsolenzi" /></a> </p>
-
 - 🔭 I’m currently working on [Luxoft - DXC](Poland/Brasil)
 
 - 🌱 I’m currently learning **• Data Lake Gen2 • SQL • Spark • Azure Data Factory • Azure Databricks • Python • Azure CosmosDB • Rest API • Synapse • AKS • Azure Devops • Also studying AWS: S3, Glue, Athena,EMR and EKS.**
