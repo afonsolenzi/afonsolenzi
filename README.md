@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afonso Orgino Lenzi</h1>
-<h3 align="center">A Data Engineer with economics background who loves to connect finance and tech!</h3>
+<h3 align="center">A Data Engineer with economics background who loves to connect business and code!</h3>
 
 - 🔭 I’m currently working on [Luxoft - DXC](Poland/Brasil)
 
