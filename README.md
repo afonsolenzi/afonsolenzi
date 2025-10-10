@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afonso Orgino Lenzi</h1>
 <h3 align="center">A Data Engineer with economics background who loves to connect business and code!</h3>
 
-- 🔭 I’m currently working on [Boost-IT](Portugal/Brasil)
+- 🔭 I’m currently working on [CI&T-Brasil)
 
 - 🌱 I’m currently learning **• Data Lake Gen2 • SQL • Spark • Azure Data Factory • Azure Databricks • Python • Azure CosmosDB • Rest API • Synapse • AKS • Azure Devops • Also studying AWS: S3, Glue, Athena,EMR and EKS.**
 
